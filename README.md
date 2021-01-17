@@ -42,7 +42,7 @@ In particular, you will need to:
 - eventually, you can place exits that link to other maps
 
 All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
-Please be sure to check it out. 
+Please be sure to check it out.
 
 ### Pushing the map
 
