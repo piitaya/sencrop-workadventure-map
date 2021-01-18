@@ -41,9 +41,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.google.com\/ecm-tquc-fju"
+                 "value":"tractor"
                 }],
          "type":"tilelayer",
          "visible":true,
