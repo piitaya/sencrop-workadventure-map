@@ -19,7 +19,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"restroom 1"
+                 "value":"restroom1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"restroom 2"
+                 "value":"restroom2"
                 }],
          "type":"tilelayer",
          "visible":true,
